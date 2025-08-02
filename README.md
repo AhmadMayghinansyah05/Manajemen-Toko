@@ -79,5 +79,3 @@ Kasir	kasir@gmail.com	password
 
 🔹 Transaksi Penjualan (Kasir)
 
-📄 Lisensi
-Proyek ini dirilis dengan lisensi MIT – bebas digunakan untuk pengembangan.
