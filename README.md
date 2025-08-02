@@ -33,7 +33,7 @@ Clone repository:
 bash
 Copy
 Edit
-git clone https://github.com/username/manajemen-toko.git
+git clone https://github.com/AhmadMayghinansyah05/manajemen-toko.git
 cd manajemen-toko
 Install dependency Laravel:
 
@@ -69,8 +69,8 @@ Kasir	Hanya dapat melakukan Transaksi Penjualan
 
 🔑 Akun Demo (Seeder)
 Role	Email	Password
-Admin	admin@toko.com	password
-Kasir	kasir@toko.com	password
+Admin	admin@gmail.com	password
+Kasir	kasir@gmail.com	password
 
 🖼 Screenshot UI
 🔹 Halaman Login
